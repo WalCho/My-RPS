@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My RSP</string>
+    <string name="YourChoice">Your Choice</string>
+    <string name="ComputerChoice">Computer Choice</string>
+    <string name="Score">Score : You 0 Computer 0</string>
+    <string name="Rock">Rock</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissors">Scissors</string>
+
+
+    android:contentDescription="@string/desc"
+</resources>
