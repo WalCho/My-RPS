@@ -1,2 +1,2 @@
 # My-RSP
-An app game of rock paper scissors.
+A game of rock paper scissors.
